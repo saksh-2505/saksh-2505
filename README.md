@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @saksh-2505
-- 👀 I’m interested in game devlopment and automation
-- 🌱 I’m currently learning ursian and selenium
+- 👀 I’m interested in sofware and bot development
+- 🌱 I’m currently rust and go lang
 - 💞️ I’m looking to collaborate on fun projects
-- 📫 How to reach me ,dont reach me
+- 📫 How to reach me ,saksahm2505@gmail.com
 
 <!---
 saksh-2505/saksh-2505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

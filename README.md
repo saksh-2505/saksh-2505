@@ -2,7 +2,7 @@
 - 👀 I’m interested in sofware and bot development
 - 🌱 I’m currently rust and python
 - 💞️ I’m looking to collaborate on fun projects
-- 📫 How to reach me ,saksahm2505@gmail.com
+- 📫 How to reach me ,saksham2505@gmail.com
 
 <!---
 saksh-2505/saksh-2505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

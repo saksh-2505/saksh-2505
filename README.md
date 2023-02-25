@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @saksh-2505
 - 👀 I’m interested in sofware and bot development
-- 🌱 I’m currently rust and python
+- 🌱 I’m currently c++ and python
 - 💞️ I’m looking to collaborate on fun projects
-- 📫 How to reach me ,saksham2505@gmail.com
+- 📫 Reach me at  saksham2505@gmail.com
 
 <!---
 saksh-2505/saksh-2505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

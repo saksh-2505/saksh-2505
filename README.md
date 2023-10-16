@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @saksh-2505
+- 👋 Hi, I’m Saksham Rai
 - 👀 I’m interested in sofware and bot development
-- 🌱 I’m currently c++ and python
+- 🌱 I’m currently working with c++ and python
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 Reach me at  saksham2505@gmail.com
 
